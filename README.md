@@ -29,3 +29,6 @@ This repository contains a collection of hands-on machine learning projects cove
 - Supervised & unsupervised learning
 - Model evaluation and comparison
 - Real-world dataset handling
+
+## Practise Website:
+https://codesignal.com/learn/course/44/unit/1
